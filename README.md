@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋 Я Hezretkuliev04</h1>
+<h1 align="center">Привет 👋 Я Nazar </h1>
 <h3 align="center">Начинающий Back-End разработчик | Python & Django</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 - 🔭 Сейчас изучаю **Django** и **Django REST Framework**
 - 🌱 Учусь строить чистую архитектуру бэкенда: модели, views, сериализаторы, API
 - 💬 Могу обсудить: Python, Django, REST API, базы данных
-- 📫 Открыт для стажировок, junior-вакансий и совместных pet-проектов
+- 📫 Открыт для junior-вакансий и совместных проектов
 - ⚡ Люблю разбираться, как всё устроено "под капотом"
 
 ---
@@ -47,31 +47,15 @@
 
 ---
 
-### 📌 Мои проекты
 
-<!--
-Замените ссылки ниже на свои реальные репозитории.
-Формат карточки подтягивает описание и звёзды автоматически.
--->
-<p align="center">
-  <a href="https://github.com/Hezretkuliev04/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hezretkuliev04&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Hezretkuliev04/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hezretkuliev04&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
 
 ### 📫 Как со мной связаться
 
 <p align="left">
-<!-- Раскомментируйте и вставьте свои ссылки/контакты
-<a href="https://t.me/ВАШ_НИК" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ВАШ_ПРОФИЛЬ" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ваша_почта@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
--->
+
+<a href="https://t.me/Nazar0_0" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:nazarhezretkuliev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
