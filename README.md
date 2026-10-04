@@ -1,55 +1,136 @@
-# Nazar Hezretkuliev — personal site
+<p align="center">
+  <img src="assets/banner.svg" alt="Nazar Hezretkuliev, Python Developer, Django Backend, AI" width="100%">
+</p>
 
-Personal business-card site of a Python / Django developer.
-English and Russian versions, downloadable CV (PDF).
+<p align="center">
+  <a href="https://YOUR-USERNAME.github.io"><img src="https://img.shields.io/badge/Website-open-e8a04f?style=for-the-badge" alt="Website"></a>
+  <a href="cv/Nazar_Hezretkuliev_Resume_EN.pdf"><img src="https://img.shields.io/badge/CV-English-2f3a45?style=for-the-badge" alt="CV in English"></a>
+  <a href="cv/Nazar_Hezretkuliev_Resume_RU.pdf"><img src="https://img.shields.io/badge/CV-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-2f3a45?style=for-the-badge" alt="CV на русском"></a>
+  <a href="mailto:nazarhezretkuliev@gmail.com"><img src="https://img.shields.io/badge/Email-write%20to%20me-2f3a45?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-## Files
+<p align="center">
+  <img src="assets/stack.svg" alt="Python, Django, REST API, Flask, NumPy, Pandas, SQL, Git, AI" width="100%">
+</p>
 
-- `index.html` — the whole site (styles and scripts are inside)
-- `photo.jpg` — your photo (replace it with another photo under the same name)
-- `cv/` — CV in PDF, English and Russian
-- `.nojekyll` — tells GitHub Pages to publish the files as they are
+<img align="right" src="assets/photo.png" width="130" alt="Nazar Hezretkuliev">
 
-## How to publish on GitHub Pages
+I build clean, maintainable server-side applications with Python and Django and connect AI models to real products. Open to Python / Django backend and AI roles.
 
-1. Sign in at github.com (or create an account).
-2. Click **New repository**.
-   - Name: `YOUR-USERNAME.github.io` gives the short address `https://YOUR-USERNAME.github.io`.
-     Any other name (for example `portfolio`) gives `https://YOUR-USERNAME.github.io/portfolio/`.
-   - Visibility: **Public**.
-3. In the new repository click **uploading an existing file**.
-4. Unzip this archive and drag **the contents of the folder** (`index.html`, `photo.jpg`, `cv`, `.nojekyll`, `README.md`) into the browser window. Do not upload the zip itself.
-5. Click **Commit changes**.
-6. Open **Settings → Pages**. Under **Build and deployment** choose **Deploy from a branch**, branch **main**, folder **/ (root)**, then **Save**.
-7. After 1–2 minutes the address appears at the top of the Pages screen. Put it in your CV and your profiles.
+Я создаю чистые, поддерживаемые серверные приложения на Python и Django и подключаю ИИ-модели к реальным продуктам. Открыт к предложениям по Python / Django backend и ИИ.
 
-## How to change things later
+<br clear="right">
 
-- Photo: upload a new `photo.jpg` to the repository (Add file → Upload files).
-- Text: open `index.html` on GitHub, click the pencil icon, edit, **Commit changes**.
-- CV: upload new PDFs into `cv/` with the same names.
+Click a section to open it. &nbsp;/&nbsp; Нажмите на раздел, чтобы раскрыть его.
 
----
+<details open>
+<summary><b>English</b></summary>
 
-# Персональный сайт — Назар Хезреткулиев
+### About
 
-Сайт-визитка Python / Django разработчика. Русская и английская версии, резюме в PDF.
+Python developer with hands-on experience in backend development with Django and in working with artificial intelligence. Strong foundation in object-oriented programming, data structures and algorithms. I study Computer Science and Information Technology, major in Artificial Intelligence and Expert Systems.
 
-## Как выложить на GitHub Pages
+### Stack
 
-1. Войдите на github.com (или зарегистрируйтесь).
-2. Нажмите **New repository**.
-   - Название `ВАШ-ЛОГИН.github.io` даст короткий адрес `https://ВАШ-ЛОГИН.github.io`.
-     Любое другое название (например `portfolio`) даст адрес `https://ВАШ-ЛОГИН.github.io/portfolio/`.
-   - Тип: **Public**.
-3. В новом репозитории нажмите **uploading an existing file**.
-4. Распакуйте архив и перетащите в окно браузера **содержимое папки** (`index.html`, `photo.jpg`, `cv`, `.nojekyll`, `README.md`). Сам zip загружать не нужно.
-5. Нажмите **Commit changes**.
-6. Откройте **Settings → Pages**. В разделе **Build and deployment** выберите **Deploy from a branch**, ветка **main**, папка **/ (root)**, нажмите **Save**.
-7. Через 1–2 минуты вверху страницы Pages появится адрес сайта. Добавьте его в резюме и профили.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Как менять потом
+<details>
+<summary>How a Django + AI request flows</summary>
 
-- Фото: загрузите новый `photo.jpg` в репозиторий (Add file → Upload files).
-- Текст: откройте `index.html` на GitHub, нажмите значок карандаша, измените, **Commit changes**.
-- Резюме: загрузите новые PDF в папку `cv/` с теми же именами.
+<p align="center"><img src="assets/flow.svg" alt="GET /api/predict, urls.py, views.py, models.py, model.predict(), JsonResponse" width="100%"></p>
+
+</details>
+
+<details>
+<summary>What I work on</summary>
+
+- **Backend with Django:** models and database schemas through the ORM, views and APIs, authentication, the admin panel.
+- **Artificial intelligence:** working with data and AI models in Python with NumPy and Pandas, wiring AI features into backend services.
+- **Engineering fundamentals:** clean code, object-oriented design, algorithms and data structures, testing and debugging.
+
+</details>
+
+<details>
+<summary>Education</summary>
+
+**Oguz han Engineering and Technology University of Turkmenistan**, Ashgabat, 2022 – present
+Faculty: Computer Science and Information Technology
+Major: Artificial Intelligence and Expert Systems
+
+</details>
+
+<details>
+<summary>Contact</summary>
+
+- Email: nazarhezretkuliev@gmail.com
+- Phone: +99362972556
+- Location: Ashgabat, Turkmenistan
+- Languages: English, Russian, Turkmen
+- CV: [English (PDF)](cv/Nazar_Hezretkuliev_Resume_EN.pdf) · [Русский (PDF)](cv/Nazar_Hezretkuliev_Resume_RU.pdf)
+
+</details>
+
+</details>
+
+<details>
+<summary><b>Русский</b></summary>
+
+### Обо мне
+
+Python-разработчик с практическим опытом backend-разработки на Django и работы с искусственным интеллектом. Крепкая база в объектно-ориентированном программировании, структурах данных и алгоритмах. Учусь на факультете «Компьютерные науки и информационные технологии», специальность «Искусственный интеллект и экспертные системы».
+
+### Стек
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+<details>
+<summary>Путь запроса Django + ИИ</summary>
+
+<p align="center"><img src="assets/flow.svg" alt="GET /api/predict, urls.py, views.py, models.py, model.predict(), JsonResponse" width="100%"></p>
+
+</details>
+
+<details>
+<summary>Чем занимаюсь</summary>
+
+- **Backend на Django:** модели и схемы БД через ORM, представления и API, аутентификация, админ-панель.
+- **Искусственный интеллект:** работа с данными и ИИ-моделями на Python (NumPy, Pandas), подключение ИИ-функций к backend-сервисам.
+- **Основы разработки:** чистый код, ООП, алгоритмы и структуры данных, тестирование и отладка.
+
+</details>
+
+<details>
+<summary>Образование</summary>
+
+**Инженерно-технологический университет Туркменистана имени Огуз хана**, Ашхабад, 2022 – настоящее время
+Факультет: Компьютерные науки и информационные технологии
+Специальность: Искусственный интеллект и экспертные системы
+
+</details>
+
+<details>
+<summary>Контакты</summary>
+
+- Email: nazarhezretkuliev@gmail.com
+- Телефон: +99362972556
+- Город: Ашхабад, Туркменистан
+- Языки: английский, русский, туркменский
+- Резюме: [English (PDF)](cv/Nazar_Hezretkuliev_Resume_EN.pdf) · [Русский (PDF)](cv/Nazar_Hezretkuliev_Resume_RU.pdf)
+
+</details>
+
+</details>

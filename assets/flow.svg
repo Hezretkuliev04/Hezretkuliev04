@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 150" width="900" height="150" role="img" aria-label="A Django plus AI request: GET /api/predict, urls.py, views.py, models.py, model.predict(), JsonResponse">
+<title>Request flow: urls.py, views.py, models.py, model.predict(), JsonResponse</title>
+<style>
+.lb{font:500 12.5px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;fill:#9aa6b1;animation:txt 9.0s linear infinite}
+.n{fill:#182028;stroke:#33414d;stroke-width:2;animation:node 9.0s linear infinite}
+.sg{stroke:#e8a04f;stroke-width:2;stroke-dasharray:6 5;opacity:0;animation:seg 9.0s linear infinite}
+.pk{fill:#e8a04f}
+.tr{stroke:#33414d;stroke-width:2}
+@keyframes node{0%{fill:#182028;stroke:#33414d}3%,70%{fill:#e8a04f;stroke:#e8a04f}85%,100%{fill:#182028;stroke:#33414d}}
+@keyframes txt{0%{fill:#9aa6b1}3%,70%{fill:#e8ecef}85%,100%{fill:#9aa6b1}}
+@keyframes seg{0%{opacity:0}3%,60%{opacity:1}85%,100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.sg{opacity:1}}
+</style>
+<rect x="0.5" y="0.5" width="899" height="149" rx="14" fill="#111820" stroke="#33414d"/>
+<line class="tr" x1="90" y1="62" x2="810" y2="62"/>
+<line class="sg" x1="98" y1="62" x2="226" y2="62" style="animation-delay:0.45s"/><line class="sg" x1="242" y1="62" x2="370" y2="62" style="animation-delay:1.85s"/><line class="sg" x1="386" y1="62" x2="514" y2="62" style="animation-delay:3.25s"/><line class="sg" x1="530" y1="62" x2="658" y2="62" style="animation-delay:4.65s"/><line class="sg" x1="674" y1="62" x2="802" y2="62" style="animation-delay:6.05s"/>
+<circle class="n" cx="90" cy="62" r="7" style="animation-delay:0.20s"/><text x="90" y="100" text-anchor="middle" class="lb" style="animation-delay:0.20s">GET /api/predict</text><circle class="n" cx="234" cy="62" r="7" style="animation-delay:1.60s"/><text x="234" y="100" text-anchor="middle" class="lb" style="animation-delay:1.60s">urls.py</text><circle class="n" cx="378" cy="62" r="7" style="animation-delay:3.00s"/><text x="378" y="100" text-anchor="middle" class="lb" style="animation-delay:3.00s">views.py</text><circle class="n" cx="522" cy="62" r="7" style="animation-delay:4.40s"/><text x="522" y="100" text-anchor="middle" class="lb" style="animation-delay:4.40s">models.py</text><circle class="n" cx="666" cy="62" r="7" style="animation-delay:5.80s"/><text x="666" y="100" text-anchor="middle" class="lb" style="animation-delay:5.80s">model.predict()</text><circle class="n" cx="810" cy="62" r="7" style="animation-delay:7.20s"/><text x="810" y="100" text-anchor="middle" class="lb" style="animation-delay:7.20s">JsonResponse</text>
+<circle class="pk" r="5" cy="0" cx="0"><animateMotion dur="9.0s" repeatCount="indefinite" calcMode="linear" keyPoints="0.0000;0.0000;0.0000;0.2000;0.2000;0.4000;0.4000;0.6000;0.6000;0.8000;0.8000;1.0000;1.0000;1.0000" keyTimes="0.0000;0.0222;0.0500;0.1778;0.2056;0.3333;0.3611;0.4889;0.5167;0.6444;0.6722;0.8000;0.8278;1.0000" path="M90,62 L810,62"/></circle>
+<text x="450" y="136" text-anchor="middle" class="lb" style="animation:none;fill:#9aa6b1;opacity:.8">one request, from the URL to the JSON answer</text>
+</svg>
