@@ -1,63 +1,55 @@
-<h1 align="center">Привет 👋 Я Nazar </h1>
-<h3 align="center">Начинающий Back-End разработчик | Python & Django</h3>
+# Nazar Hezretkuliev — personal site
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%2B+Django;REST+API+%2F+DRF;Всегда+учусь+новому" alt="Typing SVG" />
-</p>
+Personal business-card site of a Python / Django developer.
+English and Russian versions, downloadable CV (PDF).
 
----
+## Files
 
-### 🚀 Обо мне
+- `index.html` — the whole site (styles and scripts are inside)
+- `photo.jpg` — your photo (replace it with another photo under the same name)
+- `cv/` — CV in PDF, English and Russian
+- `.nojekyll` — tells GitHub Pages to publish the files as they are
 
-- 🔭 Сейчас изучил **Django** и **Django REST Framework**
-- 🌱 Учусь строить чистую архитектуру бэкенда: модели, views, сериализаторы, API
-- 💬 Могу обсудить: Python, Django, REST API, базы данных
-- 📫 Открыт для junior-вакансий и совместных проектов
-- ⚡ Люблю разбираться, как всё устроено "под капотом"
+## How to publish on GitHub Pages
 
----
+1. Sign in at github.com (or create an account).
+2. Click **New repository**.
+   - Name: `YOUR-USERNAME.github.io` gives the short address `https://YOUR-USERNAME.github.io`.
+     Any other name (for example `portfolio`) gives `https://YOUR-USERNAME.github.io/portfolio/`.
+   - Visibility: **Public**.
+3. In the new repository click **uploading an existing file**.
+4. Unzip this archive and drag **the contents of the folder** (`index.html`, `photo.jpg`, `cv`, `.nojekyll`, `README.md`) into the browser window. Do not upload the zip itself.
+5. Click **Commit changes**.
+6. Open **Settings → Pages**. Under **Build and deployment** choose **Deploy from a branch**, branch **main**, folder **/ (root)**, then **Save**.
+7. After 1–2 minutes the address appears at the top of the Pages screen. Put it in your CV and your profiles.
 
-### 🛠️ Технологии и инструменты
+## How to change things later
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+- Photo: upload a new `photo.jpg` to the repository (Add file → Upload files).
+- Text: open `index.html` on GitHub, click the pencil icon, edit, **Commit changes**.
+- CV: upload new PDFs into `cv/` with the same names.
 
 ---
 
-### 📊 GitHub статистика
+# Персональный сайт — Назар Хезреткулиев
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hezretkuliev04&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hezretkuliev04&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+Сайт-визитка Python / Django разработчика. Русская и английская версии, резюме в PDF.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hezretkuliev04&theme=tokyonight&hide_border=true" />
-</p>
+## Как выложить на GitHub Pages
 
----
+1. Войдите на github.com (или зарегистрируйтесь).
+2. Нажмите **New repository**.
+   - Название `ВАШ-ЛОГИН.github.io` даст короткий адрес `https://ВАШ-ЛОГИН.github.io`.
+     Любое другое название (например `portfolio`) даст адрес `https://ВАШ-ЛОГИН.github.io/portfolio/`.
+   - Тип: **Public**.
+3. В новом репозитории нажмите **uploading an existing file**.
+4. Распакуйте архив и перетащите в окно браузера **содержимое папки** (`index.html`, `photo.jpg`, `cv`, `.nojekyll`, `README.md`). Сам zip загружать не нужно.
+5. Нажмите **Commit changes**.
+6. Откройте **Settings → Pages**. В разделе **Build and deployment** выберите **Deploy from a branch**, ветка **main**, папка **/ (root)**, нажмите **Save**.
+7. Через 1–2 минуты вверху страницы Pages появится адрес сайта. Добавьте его в резюме и профили.
 
+## Как менять потом
 
-
-### 📫 Как со мной связаться
-
-<p align="left">
-
-<a href="https://t.me/Nazar0_0" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:nazarhezretkuliev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center"><i>Спасибо, что заглянули! ⭐ Если понравился проект — ставьте звёздочку</i></p>
+- Фото: загрузите новый `photo.jpg` в репозиторий (Add file → Upload files).
+- Текст: откройте `index.html` на GitHub, нажмите значок карандаша, измените, **Commit changes**.
+- Резюме: загрузите новые PDF в папку `cv/` с теми же именами.
