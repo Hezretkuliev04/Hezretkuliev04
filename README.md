@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://Hezretkuliev04.github.io"><img src="https://img.shields.io/badge/Website-open-e8a04f?style=for-the-badge" alt="Website"></a>
+  <a href="https://hezretkuliev04.github.io"><img src="https://img.shields.io/badge/Website-open-e8a04f?style=for-the-badge" alt="Website"></a>
   <a href="cv/Nazar_Hezretkuliev_Resume_EN.pdf"><img src="https://img.shields.io/badge/CV-English-2f3a45?style=for-the-badge" alt="CV in English"></a>
   <a href="cv/Nazar_Hezretkuliev_Resume_RU.pdf"><img src="https://img.shields.io/badge/CV-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-2f3a45?style=for-the-badge" alt="CV на русском"></a>
   <a href="mailto:nazarhezretkuliev@gmail.com"><img src="https://img.shields.io/badge/Email-write%20to%20me-2f3a45?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
