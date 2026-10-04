@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 92" width="520" height="92" role="img" aria-label="Open my website. Открыть мой сайт">
+<title>Open my website · Открыть мой сайт</title>
+<defs>
+<linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
+<stop offset="0" stop-color="#f4bb70"/><stop offset=".5" stop-color="#e8a04f"/><stop offset="1" stop-color="#d98a33"/>
+</linearGradient>
+<linearGradient id="sh" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="pill"><rect x="24" y="16" width="472" height="60" rx="30"/></clipPath>
+</defs>
+<style>
+.ring{fill:none;stroke:#e8a04f;stroke-width:2;transform-box:fill-box;transform-origin:center;animation:ring 2.4s ease-out infinite}
+.shine{animation:shine 3.6s ease-in-out infinite}
+.globe{fill:none;stroke:#1a1308;stroke-width:2;stroke-linecap:round}
+.mer{fill:none;stroke:#1a1308;stroke-width:2;animation:spin 3s ease-in-out infinite alternate}
+.arr{animation:nudge 1.3s ease-in-out infinite}
+.t1{font:700 24px 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;fill:#1a1308;letter-spacing:.2px}
+.t2{font:600 13px 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;fill:#1a1308;opacity:.85;letter-spacing:.6px}
+@keyframes ring{0%{transform:scale(1);opacity:.85}100%{transform:scale(1.07, 1.28);opacity:0}}
+@keyframes shine{0%{transform:translateX(0)}55%,100%{transform:translateX(640px)}}
+@keyframes spin{from{rx:3px}to{rx:15px}}
+@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect class="ring" x="24" y="16" width="472" height="60" rx="30"/>
+<rect x="24" y="16" width="472" height="60" rx="30" fill="url(#g)"/>
+<g clip-path="url(#pill)"><rect class="shine" x="-140" y="0" width="90" height="92" fill="url(#sh)" transform="skewX(-20)"/></g>
+
+<g transform="translate(76 46)">
+<circle class="globe" r="17"/>
+<ellipse class="mer" cx="0" cy="0" rx="9" ry="17"/>
+<line class="globe" x1="-17" y1="0" x2="17" y2="0"/>
+<path class="globe" d="M-14 -8 Q0 -3 14 -8"/>
+<path class="globe" d="M-14 8 Q0 3 14 8"/>
+</g>
+
+<text class="t1" x="112" y="43">Open my website</text>
+<text class="t2" x="113" y="62">Открыть мой сайт  ·  EN / RU</text>
+
+<g transform="translate(456 46)">
+<circle r="17" fill="#1a1308"/>
+<g class="arr"><path d="M-7 0 H7 M2 -6 L8 0 L2 6" fill="none" stroke="#e8a04f" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+</svg>
